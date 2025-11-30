@@ -3,7 +3,7 @@
   208743690
   
 #   Introduction
-The goal of this exercise is to implement a set of static methods on polynomial functions represented by 1D arrays of doubles, and to test them using JUnit.:contentReference[oaicite:1]{index=1}
+The goal of this exercise is to implement a set of static methods on polynomial functions represented by 1D arrays of doubles.
 
 ## Files in the Repository
 
