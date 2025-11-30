@@ -33,7 +33,7 @@ The goal of this exercise is to implement a set of static methods on polynomial 
   - `sameValue` – symmetry of the function when swapping polynomials.:contentReference[oaicite:17]{index=17}  
   - `area` – symmetry (`area(p1,p2) = area(p2,p1)`) and correctness on simple functions like `0` and `x`.:contentReference[oaicite:18]{index=18}  
 
-  **Additional tests I added:**:contentReference[oaicite:19]{index=19}  
+  **Additional tests I added:** 
   - `testAddZeroIdentity()` – checks that adding `ZERO` from the left or right does not change the polynomial.  
   - `testPolyAndFromString()` – checks that `poly` and `getPolynomFromString` behave as inverse operations on a polynomial with missing coefficients (zero terms in the middle).
 
