@@ -1,7 +1,9 @@
-  Ariel University Computer Science – Ex1
+# Ariel University Computer Science – Ex1
   Gal Attias  
   208743690
-
+  
+#   Introduction
+The goal of this exercise is to implement a set of static methods on polynomial functions represented by 1D arrays of doubles, and to test them using JUnit.:contentReference[oaicite:1]{index=1}
 
 ## Files in the Repository
 
